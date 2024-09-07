@@ -11,6 +11,11 @@ Deepfake 탐지기 uses state-of-the-art artificial intelligence and machine lea
 While this tool is an invaluable asset in the fight against misinformation, it's important to note that Deepfake 탐지기 is not available for redistribution. FAI has taken care to ensure that the software remains secure and free from unauthorized modifications, preserving its reliability and effectiveness.
 
 Whether you're a journalist striving to verify the authenticity of your sources, a content creator concerned with protecting your reputation, or simply a vigilant internet user, Deepfake 탐지기 is your trusted companion in the ongoing battle against deceptive media. Stay one step ahead of malicious actors and ensure the truth prevails with Deepfake 탐지기 by FAI.
+실행시 10분정도 소요됩니다
+트위터 페이스북 구글 밴드 네이버 등등 현재 확인된 딥페이크 방들을 모두 검사합니다 
+텔레그램 검사는 10달러입니다
+
+Created by FAi,tur7rt67
 
 주의 절때 관리자 권한으로 실행 하지마세요.
 Warning: Do not run with administrator privileges under any circumstances.
